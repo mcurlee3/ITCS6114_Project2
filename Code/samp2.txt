@@ -1,0 +1,22 @@
+10 U 20
+A J 30
+A I 12
+A C 20
+A B 29
+B J 11
+B D 19
+B C 28
+C E 18
+C D 27
+D F 17
+D E 26
+E G 16
+E G 25
+F H 15
+F G 24
+G I 14
+G H 23
+H J 13
+H I 22
+I J 21
+A
